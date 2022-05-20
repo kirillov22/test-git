@@ -1,7 +1,9 @@
 Some text
 Some more text
-
-Kia ora
+_    _
+:c   c:
+   o
+-------
 Holt?? You haven't violated the law? No :c
 
 Hello! foo bar
