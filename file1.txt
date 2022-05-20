@@ -2,7 +2,7 @@ Some text
 Some more text
 
 Kia ora
-Halt, you have violated the law.
+Holt! You have violated the law?
 
 Hello! foo bar
 :)
