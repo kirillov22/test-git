@@ -1,7 +1,10 @@
 Some text
 Some more text
 
-Kia ora 
+Kia ora
+Halt, you have violated the law.
+
+Hello! foo bar
 :)
 
 More stuff
