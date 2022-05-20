@@ -3,7 +3,7 @@ Some more text
 
 Halt, you have violated the law.
 
-Hello!
+Hello! foo bar
 :)
 
 More stuff
