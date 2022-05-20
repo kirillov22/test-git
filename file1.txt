@@ -8,3 +8,5 @@ Hello! foo bar
 :)
 
 More stuff
+
+end of file reached!!
